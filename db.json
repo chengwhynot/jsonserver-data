@@ -1,0 +1,82 @@
+{
+  "getPanoramaProjectDate": 
+  [
+  {
+  "id":"L-SZ00-SZDSH00.01",
+  "code":200,
+  "message":"",
+    "data": [
+      {
+        "areaName": "苏州龙湖",
+        "cardid": "L-SZ00-SZDSH00.01",
+        "groupGuid": "L-SZ00-SZDSH00.01.01",
+        "planEndDate": "2020-05-16 15:00:00",
+        "planEndDateStamp": 1589612400000,
+        "planKey": "qjtask028",
+        "planName": "主体结构封顶",
+        "planOverDate": "",
+        "planStartDate": "",
+        "projGuid": "L-SZ00-SZDSH00",
+        "projName": "独墅湖西项目",
+        "stageName": "一期",
+        "taskCode": "JT00012",
+        "zutuanName": "1组团"
+      },
+      {
+        "areaName": "苏州龙湖",
+        "cardid": "L-SZ00-SZDSH00.01",
+        "groupGuid": "L-SZ00-SZDSH00.01.01",
+        "planEndDate": "2019-12-04 15:00:00",
+        "planEndDateStamp": 1575442800000,
+        "planKey": "qjtask028",
+        "planName": "主体结构封顶",
+        "planOverDate": "",
+        "planStartDate": "",
+        "projGuid": "L-SZ00-SZDSH00",
+        "projName": "独墅湖西项目",
+        "stageName": "一期",
+        "taskCode": "JT00012",
+        "zutuanName": "1组团"
+      }
+    ]
+  },
+  {
+  "id":"L-SZ00-SZDSH00.02",
+  "code":200,
+  "message":"",
+    "data": [
+      {
+        "areaName": "苏州龙湖",
+        "cardid": "L-SZ00-SZDSH00.01",
+        "groupGuid": "L-SZ00-SZDSH00.01.02",
+        "planEndDate": "2020-05-16 15:00:00",
+        "planEndDateStamp": 1589612400000,
+        "planKey": "qjtask028",
+        "planName": "主体结构封顶",
+        "planOverDate": "",
+        "planStartDate": "",
+        "projGuid": "L-SZ00-SZDSH00",
+        "projName": "独墅湖西项目",
+        "stageName": "一期",
+        "taskCode": "JT00012",
+        "zutuanName": "2组团"
+      },
+      {
+        "areaName": "苏州龙湖",
+        "cardid": "L-SZ00-SZDSH00.01",
+        "groupGuid": "L-SZ00-SZDSH00.01.01",
+        "planEndDate": "2019-12-04 15:00:00",
+        "planEndDateStamp": 1575442800000,
+        "planKey": "qjtask028",
+        "planName": "主体结构封顶",
+        "planOverDate": "",
+        "planStartDate": "",
+        "projGuid": "L-SZ00-SZDSH00",
+        "projName": "独墅湖西项目",
+        "stageName": "一期",
+        "taskCode": "JT00012",
+        "zutuanName": "1组团"
+      }
+    ]
+  }]
+}
